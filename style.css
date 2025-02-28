@@ -1,0 +1,31 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.azul{
+    background-color: rgb(105, 203, 255);
+    padding: 100px;
+    margin: 300px;
+}
+
+.amarelo{
+    background-color: rgb(255, 220, 105);
+    padding: 100px;
+    margin: 20px;
+}
+
+.extender{
+    background-color: rgb(191, 151, 19);
+    padding-right: 350px;
+}
+
+.flex{
+    display: flex;
+}
+
+div{
+}
+.alongar{
+    background-color: aquamarine;  
+    padding-bottom: 350px;
+}
